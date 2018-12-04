@@ -1,0 +1,4 @@
+Protected Internal Access Specifier
+
+
+The protected internal access specifier allows a class to hide its member variables and member functions from other class objects and functions, except a child class within the same application. This is also used while implementing inheritance.

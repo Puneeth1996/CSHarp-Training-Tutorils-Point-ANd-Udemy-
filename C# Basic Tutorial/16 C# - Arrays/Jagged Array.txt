@@ -1,0 +1,1 @@
+int[][] scores = new int[2][]{new int[]{92,93,94},new int[]{85,66,87,88}};

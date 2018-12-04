@@ -1,0 +1,21 @@
+C# - Classes
+
+
+When you define a class, you define a blueprint for a data type.
+
+
+
+Member Functions and Encapsulation
+A member function of a class is a function that has its definition or its prototype within the class definition similar to any other variable. It operates on any object of the class of which it is a member, and has access to all the members of a class for that object.
+
+Member variables are the attributes of an object (from design perspective) and they are kept private to implement encapsulation. These variables can only be accessed using the public member functions.
+
+
+C# Constructors
+A class constructor is a special member function of a class that is executed whenever we create new objects of that class.
+
+
+
+
+Static Members of a C# Class
+The keyword static implies that only one instance of the member exists for a class. Static variables are used for defining constants because their values can be retrieved by invoking the class without creating an instance of it. Static variables can be initialized outside the member function or class definition. You can also initialize static variables inside the class definition.

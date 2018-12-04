@@ -1,0 +1,15 @@
+C# - Attributes
+
+
+
+An attribute is a declarative tag that is used to convey information to runtime about the behaviors of various elements like classes, methods, structures, enumerators, assemblies etc.
+
+
+Predefined Attributes
+The .Net Framework provides three pre-defined attributes −
+
+AttributeUsage
+Conditional
+Obsolete
+
+

@@ -1,0 +1,13 @@
+C# - Encapsulation
+
+
+Abstraction allows making relevant information visible
+Encapsulation, in object oriented programming methodology, prevents access to implementation details.
+
+Encapsulation is implemented by using access specifiers. An access specifier defines the scope and visibility of a class member. C# supports the following access specifiers 
+
+Public
+Private
+Protected
+Internal
+Protected internal

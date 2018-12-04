@@ -1,0 +1,10 @@
+C:\Users\PUNEETH\Desktop\C# visual studio app development tutorials\03 Basics of C Programming\CsharpStart\CsharpStart\bin\Debug\CsharpStart.exe.config
+C:\Users\PUNEETH\Desktop\C# visual studio app development tutorials\03 Basics of C Programming\CsharpStart\CsharpStart\bin\Debug\CsharpStart.exe
+C:\Users\PUNEETH\Desktop\C# visual studio app development tutorials\03 Basics of C Programming\CsharpStart\CsharpStart\bin\Debug\CsharpStart.pdb
+C:\Users\PUNEETH\Desktop\C# visual studio app development tutorials\03 Basics of C Programming\CsharpStart\CsharpStart\obj\Debug\CsharpStart.csprojAssemblyReference.cache
+C:\Users\PUNEETH\Desktop\C# visual studio app development tutorials\03 Basics of C Programming\CsharpStart\CsharpStart\obj\Debug\CsharpStart.Properties.Resources.resources
+C:\Users\PUNEETH\Desktop\C# visual studio app development tutorials\03 Basics of C Programming\CsharpStart\CsharpStart\obj\Debug\CsharpStart.csproj.GenerateResource.cache
+C:\Users\PUNEETH\Desktop\C# visual studio app development tutorials\03 Basics of C Programming\CsharpStart\CsharpStart\obj\Debug\CsharpStart.csproj.CoreCompileInputs.cache
+C:\Users\PUNEETH\Desktop\C# visual studio app development tutorials\03 Basics of C Programming\CsharpStart\CsharpStart\obj\Debug\CsharpStart.exe
+C:\Users\PUNEETH\Desktop\C# visual studio app development tutorials\03 Basics of C Programming\CsharpStart\CsharpStart\obj\Debug\CsharpStart.pdb
+C:\Users\PUNEETH\Desktop\C# visual studio app development tutorials\03 Basics of C Programming\CsharpStart\CsharpStart\obj\Debug\CsharpStart.Form1.resources

@@ -1,0 +1,7 @@
+C:\Users\PUNEETH\Desktop\C# visual studio app development tutorials\03 Basics of C Programming\RetriveDataFromUser\RetriveDataFromUser\bin\Debug\RetriveDataFromUser.exe.config
+C:\Users\PUNEETH\Desktop\C# visual studio app development tutorials\03 Basics of C Programming\RetriveDataFromUser\RetriveDataFromUser\bin\Debug\RetriveDataFromUser.exe
+C:\Users\PUNEETH\Desktop\C# visual studio app development tutorials\03 Basics of C Programming\RetriveDataFromUser\RetriveDataFromUser\bin\Debug\RetriveDataFromUser.pdb
+C:\Users\PUNEETH\Desktop\C# visual studio app development tutorials\03 Basics of C Programming\RetriveDataFromUser\RetriveDataFromUser\obj\Debug\RetriveDataFromUser.csprojAssemblyReference.cache
+C:\Users\PUNEETH\Desktop\C# visual studio app development tutorials\03 Basics of C Programming\RetriveDataFromUser\RetriveDataFromUser\obj\Debug\RetriveDataFromUser.csproj.CoreCompileInputs.cache
+C:\Users\PUNEETH\Desktop\C# visual studio app development tutorials\03 Basics of C Programming\RetriveDataFromUser\RetriveDataFromUser\obj\Debug\RetriveDataFromUser.exe
+C:\Users\PUNEETH\Desktop\C# visual studio app development tutorials\03 Basics of C Programming\RetriveDataFromUser\RetriveDataFromUser\obj\Debug\RetriveDataFromUser.pdb

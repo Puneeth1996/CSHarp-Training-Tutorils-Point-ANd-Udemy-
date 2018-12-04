@@ -1,0 +1,3 @@
+C# - Namespaces
+
+A namespace is designed for providing a way to keep one set of names separate from another. The class names declared in one namespace does not conflict with the same class names declared in another.

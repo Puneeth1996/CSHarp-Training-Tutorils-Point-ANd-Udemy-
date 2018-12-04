@@ -1,0 +1,28 @@
+C# - Strings
+
+
+In C#, you can use strings as array of characters,
+
+
+
+
+
+
+
+
+Properties of the String Class:
+
+1 Chars	Gets the Char object at a specified position in the current String object.
+2 Length Gets the number of characters in the current String object.
+
+
+
+
+
+
+Methods of the String Class:
+
+1 Comparing Strings
+2 String Contains String
+3 Getting a Substring
+4 Joining Strings

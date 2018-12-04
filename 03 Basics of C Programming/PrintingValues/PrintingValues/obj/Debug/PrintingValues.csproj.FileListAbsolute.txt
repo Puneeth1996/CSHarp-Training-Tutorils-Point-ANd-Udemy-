@@ -1,0 +1,7 @@
+C:\Users\PUNEETH\Desktop\C# visual studio app development tutorials\03 Basics of C Programming\PrintingValues\PrintingValues\obj\Debug\PrintingValues.csprojAssemblyReference.cache
+C:\Users\PUNEETH\Desktop\C# visual studio app development tutorials\03 Basics of C Programming\PrintingValues\PrintingValues\obj\Debug\PrintingValues.csproj.CoreCompileInputs.cache
+C:\Users\PUNEETH\Desktop\C# visual studio app development tutorials\03 Basics of C Programming\PrintingValues\PrintingValues\bin\Debug\PrintingValues.exe.config
+C:\Users\PUNEETH\Desktop\C# visual studio app development tutorials\03 Basics of C Programming\PrintingValues\PrintingValues\bin\Debug\PrintingValues.exe
+C:\Users\PUNEETH\Desktop\C# visual studio app development tutorials\03 Basics of C Programming\PrintingValues\PrintingValues\bin\Debug\PrintingValues.pdb
+C:\Users\PUNEETH\Desktop\C# visual studio app development tutorials\03 Basics of C Programming\PrintingValues\PrintingValues\obj\Debug\PrintingValues.exe
+C:\Users\PUNEETH\Desktop\C# visual studio app development tutorials\03 Basics of C Programming\PrintingValues\PrintingValues\obj\Debug\PrintingValues.pdb

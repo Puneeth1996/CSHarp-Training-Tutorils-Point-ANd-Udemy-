@@ -1,0 +1,7 @@
+C# - Anonymous Methods
+
+We discussed that delegates are used to reference any methods that has the same signature as that of the delegate. In other words, you can call a method that can be referenced by a delegate using that delegate object.
+
+Anonymous methods provide a technique to pass a code block as a delegate parameter. Anonymous methods are the methods without a name, just the body.
+
+You need not specify the return type in an anonymous method; it is inferred from the return statement inside the method body.

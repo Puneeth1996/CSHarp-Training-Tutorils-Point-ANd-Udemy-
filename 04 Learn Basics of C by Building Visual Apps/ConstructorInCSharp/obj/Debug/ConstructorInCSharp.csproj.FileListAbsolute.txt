@@ -1,0 +1,10 @@
+C:\Users\PUNEETH\Desktop\04 Learn Basics of C by Building Visual Apps\ConstructorInCSharp\ConstructorInCSharp\ConstructorInCSharp\bin\Debug\ConstructorInCSharp.exe.config
+C:\Users\PUNEETH\Desktop\04 Learn Basics of C by Building Visual Apps\ConstructorInCSharp\ConstructorInCSharp\ConstructorInCSharp\bin\Debug\ConstructorInCSharp.exe
+C:\Users\PUNEETH\Desktop\04 Learn Basics of C by Building Visual Apps\ConstructorInCSharp\ConstructorInCSharp\ConstructorInCSharp\bin\Debug\ConstructorInCSharp.pdb
+C:\Users\PUNEETH\Desktop\04 Learn Basics of C by Building Visual Apps\ConstructorInCSharp\ConstructorInCSharp\ConstructorInCSharp\obj\Debug\ConstructorInCSharp.csprojAssemblyReference.cache
+C:\Users\PUNEETH\Desktop\04 Learn Basics of C by Building Visual Apps\ConstructorInCSharp\ConstructorInCSharp\ConstructorInCSharp\obj\Debug\ConstructorInCSharp.Form1.resources
+C:\Users\PUNEETH\Desktop\04 Learn Basics of C by Building Visual Apps\ConstructorInCSharp\ConstructorInCSharp\ConstructorInCSharp\obj\Debug\ConstructorInCSharp.Properties.Resources.resources
+C:\Users\PUNEETH\Desktop\04 Learn Basics of C by Building Visual Apps\ConstructorInCSharp\ConstructorInCSharp\ConstructorInCSharp\obj\Debug\ConstructorInCSharp.csproj.GenerateResource.cache
+C:\Users\PUNEETH\Desktop\04 Learn Basics of C by Building Visual Apps\ConstructorInCSharp\ConstructorInCSharp\ConstructorInCSharp\obj\Debug\ConstructorInCSharp.csproj.CoreCompileInputs.cache
+C:\Users\PUNEETH\Desktop\04 Learn Basics of C by Building Visual Apps\ConstructorInCSharp\ConstructorInCSharp\ConstructorInCSharp\obj\Debug\ConstructorInCSharp.exe
+C:\Users\PUNEETH\Desktop\04 Learn Basics of C by Building Visual Apps\ConstructorInCSharp\ConstructorInCSharp\ConstructorInCSharp\obj\Debug\ConstructorInCSharp.pdb

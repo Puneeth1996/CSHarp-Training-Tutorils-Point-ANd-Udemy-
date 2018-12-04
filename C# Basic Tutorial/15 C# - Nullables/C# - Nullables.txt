@@ -1,0 +1,7 @@
+C# - Nullables
+
+
+
+C# provides a special data types, the nullable types, to which you can assign normal range of values as well as null values.
+
+For example, you can store any value from -2,147,483,648 to 2,147,483,647 or null in a Nullable<Int32> variable. Similarly, you can assign true, false, or null in a Nullable<bool> variable.

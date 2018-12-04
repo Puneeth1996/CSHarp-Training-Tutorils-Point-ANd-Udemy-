@@ -1,0 +1,7 @@
+C:\Users\PUNEETH\Desktop\C# visual studio app development tutorials\03 Basics of C Programming\IntroductionToCSharp\IntroductionToCSharp\bin\Debug\IntroductionToCSharp.exe.config
+C:\Users\PUNEETH\Desktop\C# visual studio app development tutorials\03 Basics of C Programming\IntroductionToCSharp\IntroductionToCSharp\bin\Debug\IntroductionToCSharp.exe
+C:\Users\PUNEETH\Desktop\C# visual studio app development tutorials\03 Basics of C Programming\IntroductionToCSharp\IntroductionToCSharp\bin\Debug\IntroductionToCSharp.pdb
+C:\Users\PUNEETH\Desktop\C# visual studio app development tutorials\03 Basics of C Programming\IntroductionToCSharp\IntroductionToCSharp\obj\Debug\IntroductionToCSharp.csprojAssemblyReference.cache
+C:\Users\PUNEETH\Desktop\C# visual studio app development tutorials\03 Basics of C Programming\IntroductionToCSharp\IntroductionToCSharp\obj\Debug\IntroductionToCSharp.csproj.CoreCompileInputs.cache
+C:\Users\PUNEETH\Desktop\C# visual studio app development tutorials\03 Basics of C Programming\IntroductionToCSharp\IntroductionToCSharp\obj\Debug\IntroductionToCSharp.exe
+C:\Users\PUNEETH\Desktop\C# visual studio app development tutorials\03 Basics of C Programming\IntroductionToCSharp\IntroductionToCSharp\obj\Debug\IntroductionToCSharp.pdb

@@ -1,0 +1,5 @@
+C# - Properties
+
+
+Properties are named members of classes, structures, and interfaces
+Properties are named members of classes, structures, and interfaces

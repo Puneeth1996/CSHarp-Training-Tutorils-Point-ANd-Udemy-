@@ -1,0 +1,10 @@
+C:\Users\NEW\Desktop\C# Conditional Operators\WhileStmt\WhileStmt\obj\Debug\WhileStmt.csprojAssemblyReference.cache
+C:\Users\NEW\Desktop\C# Conditional Operators\WhileStmt\WhileStmt\obj\Debug\WhileStmt.Form1.resources
+C:\Users\NEW\Desktop\C# Conditional Operators\WhileStmt\WhileStmt\obj\Debug\WhileStmt.Properties.Resources.resources
+C:\Users\NEW\Desktop\C# Conditional Operators\WhileStmt\WhileStmt\obj\Debug\WhileStmt.csproj.GenerateResource.cache
+C:\Users\NEW\Desktop\C# Conditional Operators\WhileStmt\WhileStmt\obj\Debug\WhileStmt.csproj.CoreCompileInputs.cache
+C:\Users\NEW\Desktop\C# Conditional Operators\WhileStmt\WhileStmt\bin\Debug\WhileStmt.exe.config
+C:\Users\NEW\Desktop\C# Conditional Operators\WhileStmt\WhileStmt\bin\Debug\WhileStmt.exe
+C:\Users\NEW\Desktop\C# Conditional Operators\WhileStmt\WhileStmt\bin\Debug\WhileStmt.pdb
+C:\Users\NEW\Desktop\C# Conditional Operators\WhileStmt\WhileStmt\obj\Debug\WhileStmt.exe
+C:\Users\NEW\Desktop\C# Conditional Operators\WhileStmt\WhileStmt\obj\Debug\WhileStmt.pdb

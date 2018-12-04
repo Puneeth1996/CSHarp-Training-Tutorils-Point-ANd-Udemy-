@@ -1,0 +1,10 @@
+C:\Users\PUNEETH\Desktop\04 Learn Basics of C by Building Visual Apps\App2\App2\obj\Debug\App2.csprojAssemblyReference.cache
+C:\Users\PUNEETH\Desktop\04 Learn Basics of C by Building Visual Apps\App2\App2\obj\Debug\App2.Form1.resources
+C:\Users\PUNEETH\Desktop\04 Learn Basics of C by Building Visual Apps\App2\App2\obj\Debug\App2.Properties.Resources.resources
+C:\Users\PUNEETH\Desktop\04 Learn Basics of C by Building Visual Apps\App2\App2\obj\Debug\App2.csproj.GenerateResource.cache
+C:\Users\PUNEETH\Desktop\04 Learn Basics of C by Building Visual Apps\App2\App2\obj\Debug\App2.csproj.CoreCompileInputs.cache
+C:\Users\PUNEETH\Desktop\04 Learn Basics of C by Building Visual Apps\App2\App2\bin\Debug\App2.exe.config
+C:\Users\PUNEETH\Desktop\04 Learn Basics of C by Building Visual Apps\App2\App2\bin\Debug\App2.exe
+C:\Users\PUNEETH\Desktop\04 Learn Basics of C by Building Visual Apps\App2\App2\bin\Debug\App2.pdb
+C:\Users\PUNEETH\Desktop\04 Learn Basics of C by Building Visual Apps\App2\App2\obj\Debug\App2.exe
+C:\Users\PUNEETH\Desktop\04 Learn Basics of C by Building Visual Apps\App2\App2\obj\Debug\App2.pdb

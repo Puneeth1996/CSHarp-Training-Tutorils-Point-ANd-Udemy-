@@ -1,0 +1,22 @@
+C# - Basic Syntax
+
+
+
+In Object-Oriented Programming methodology, a program consists of various objects that interact with each other by means of actions. The actions that an object may take are called methods.
+
+
+
+Identifiers
+        An identifier is a name used to identify a class, variable, function, or any other user-defined item. The basic rules for naming classes in C# are as follows 
+        
+        A name must begin with a letter that could be followed by a sequence of letters, digits (0 - 9) or underscore. The first character in an identifier cannot be a digit.
+        
+        It must not contain any embedded space or symbol such as? - + ! @ # % ^ & * ( ) [ ] { } . ; : " ' / and \. However, an underscore ( _ ) can be used.
+        
+        It should not be a C# keyword.
+
+
+C# Keywords
+          keywords are reserved words predefined to the c# compiler. these keywords cannot be used as identifiers. however, if you want to use these keywords as identifiers, you may prefix the keyword with the @ character.
+          
+          in c#, some identifiers have special meaning in context of code, such as get and set are called contextual keywords.

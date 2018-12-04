@@ -1,0 +1,9 @@
+018 Overview - What we have learned so far
+
+1 Customize the look of visual studio
+2 Create a visual studio project 
+3 Create a visual studio project 
+4 Create a Windows UI Application
+5 Use Image in Windows Forms
+6 Use a Custom font 
+7 Use a properties in order to change the attributes of the components 

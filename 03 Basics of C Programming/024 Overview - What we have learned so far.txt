@@ -1,0 +1,5 @@
+024 Overview - What we have learned so far 
+
+1 Create a console based application
+2 Output a text to the console
+3 Run your console based app

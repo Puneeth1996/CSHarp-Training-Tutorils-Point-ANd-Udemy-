@@ -1,0 +1,4 @@
+Protected Access Specifier
+
+
+Protected access specifier allows a child class to access the member variables and member functions of its base class. This way it helps in implementing inheritance. We will discuss this in more details in the inheritance chapter.

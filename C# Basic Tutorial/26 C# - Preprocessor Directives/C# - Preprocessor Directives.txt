@@ -1,0 +1,8 @@
+C# - Preprocessor Directives
+
+
+
+
+The preprocessor directives give instruction to the compiler to preprocess the information before actual compilation starts.
+
+All preprocessor directives begin with #, and only white-space characters may appear before a preprocessor directive on a line. Preprocessor directives are not statements, so they do not end with a semicolon (;).

@@ -1,0 +1,30 @@
+The syntax for a nested for loop statement in C# is as follows 
+
+for ( init; condition; increment ) {
+   for ( init; condition; increment ) {
+      statement(s);
+   }
+   statement(s);
+}
+
+
+The syntax for a nested while loop statement in C# is as follows 
+
+while(condition) {
+   while(condition) {
+      statement(s);
+   }
+   statement(s);
+}
+
+
+The syntax for a nested do...while loop statement in C# is as follows 
+
+do {
+   statement(s);
+   do {
+      statement(s);
+   }
+   while( condition );
+}
+while( condition );

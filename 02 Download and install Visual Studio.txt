@@ -1,0 +1,4 @@
+here the Microsoft Visual Studio community edition software installation for C# IDE work environment is shown ...
+
+
+

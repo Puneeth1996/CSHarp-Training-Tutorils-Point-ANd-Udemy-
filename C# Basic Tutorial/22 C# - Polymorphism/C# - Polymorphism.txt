@@ -1,0 +1,17 @@
+C# - Polymorphism
+
+The word polymorphism means having many forms. In object-oriented programming paradigm, polymorphism is often expressed as 'one interface, multiple functions'.
+
+Polymorphism can be static or dynamic. In static polymorphism, the response to a function is determined at the compile time. In dynamic polymorphism, it is decided at run-time.
+
+There are two types of polymorphism : 1. Static Polymorphism 2.Dynamic Polymorphism
+
+1. Static Polymorphism
+	
+	Function overloading
+	Operator overloading
+
+
+
+2. Dynamic Polymorphism
+	

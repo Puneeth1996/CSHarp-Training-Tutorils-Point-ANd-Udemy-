@@ -1,0 +1,7 @@
+C:\Users\PUNEETH\Desktop\C# visual studio app development tutorials\03 Basics of C Programming\DebuggingInCSharp\DebuggingInCSharp\obj\Debug\DebuggingInCSharp.csprojAssemblyReference.cache
+C:\Users\PUNEETH\Desktop\C# visual studio app development tutorials\03 Basics of C Programming\DebuggingInCSharp\DebuggingInCSharp\obj\Debug\DebuggingInCSharp.csproj.CoreCompileInputs.cache
+C:\Users\PUNEETH\Desktop\C# visual studio app development tutorials\03 Basics of C Programming\DebuggingInCSharp\DebuggingInCSharp\bin\Debug\DebuggingInCSharp.exe.config
+C:\Users\PUNEETH\Desktop\C# visual studio app development tutorials\03 Basics of C Programming\DebuggingInCSharp\DebuggingInCSharp\bin\Debug\DebuggingInCSharp.exe
+C:\Users\PUNEETH\Desktop\C# visual studio app development tutorials\03 Basics of C Programming\DebuggingInCSharp\DebuggingInCSharp\bin\Debug\DebuggingInCSharp.pdb
+C:\Users\PUNEETH\Desktop\C# visual studio app development tutorials\03 Basics of C Programming\DebuggingInCSharp\DebuggingInCSharp\obj\Debug\DebuggingInCSharp.exe
+C:\Users\PUNEETH\Desktop\C# visual studio app development tutorials\03 Basics of C Programming\DebuggingInCSharp\DebuggingInCSharp\obj\Debug\DebuggingInCSharp.pdb

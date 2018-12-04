@@ -1,0 +1,55 @@
+C#- Data Types
+
+
+To get the exact size of a type or a variable on a particular platform, you can use the sizeof method. 
+
+
+ 
+To get the exact size of a type or a variable on a particular platform, you can use the          sizeof();                 method. There is an example in the same folder with name            sizeOf
+
+ 
+REFERENCE TYPE: Refer to a memory location
+
+Example of built-in reference types are: object, dynamic, and string.
+
+
+          
+          1 OBJECT TYPE: When a value type is converted to object type, it is called boxing and on the other hand, when an object type is converted to a value type, it is called unboxing.
+          
+          object obj;
+          obj = 100; // this is boxing
+          
+          
+          
+          
+          
+          2 DYNAMIC TYPE: You can store any type of value in the dynamic data type variable.
+          Syntax for declaring a dynamic type is as shown below:
+          
+          dynamic <variable_name> = value;
+          For example,
+          
+          dynamic d = 20;
+          
+          
+          
+          3 STRING TYPE: The String Type allows you to assign any string values to a variable.
+          
+          For example,
+          
+          String str = "Tutorials Point";
+          A @quoted string literal looks as follows 
+          
+          @"Tutorials Point";
+          
+          
+          
+          4 POINTER TYPE: Pointer type variables store the memory address of another type.
+          
+          Syntax for declaring a pointer type is as shown below
+          
+          type* identifier;
+          For example,
+          
+          char* cptr;
+          int* iptr;

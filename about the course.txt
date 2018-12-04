@@ -1,0 +1,70 @@
+[FreeTutorials.us] c-sharp-visual-studio-app-development-tutorial
+
+
+
+udemy :	C# AND VISUAL STUDIO: WINDOWS AND WEB DEVELOPMENT BOOTCAMP
+udemy course not showing -> This is a private course.
+https://www.udemy.com/c-sharp-visual-studio-app-development-tutorial/
+
+
+
+from
+Seagate
+
+
+
+captured from way back machine : curently the udemy course shows its privates 
+
+
+C# and Visual Studio: Windows and Web Development Bootcamp
+
+Master C# Windows App Development and Build your own C#, Windows apps and Web Apps with Visual Studio 2017 and Dot Net
+
+4.3 (25 ratings)
+5,104 students enrolled
+Created by Morteza Kordi
+Last updated 5/2017
+English
+
+Learn Fest Sale
+Current price: $10
+Original price: $200
+Discount: 95% off
+30-Day Money-Back Guarantee
+Includes:
+9.5 hours on-demand video
+12 Supplemental Resources
+Full lifetime access
+Access on mobile and TV
+Certificate of Completion
+
+
+
+
+
+
+Curriculum For This Course
+Expand All  110 Lectures
+09:37:48
+–
+
+Introduction to C# Programming
+35:14
++
+Download and install Visual Studio
+3 Lectures
+08:36
++
+Basics of C# Programming
+45 Lectures
+03:58:48
++
+Learn Basics of C# by Building Visual Apps!
+53 Lectures
+04:55:10
+
+
+
+Learn Basics of C# by Building Visual Apps!
+53 Lectures
+04:55:10

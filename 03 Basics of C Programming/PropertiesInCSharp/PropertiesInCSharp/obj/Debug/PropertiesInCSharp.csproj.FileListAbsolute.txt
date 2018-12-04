@@ -1,0 +1,7 @@
+C:\Users\PUNEETH\Desktop\C# visual studio app development tutorials\03 Basics of C Programming\PropertiesInCSharp\PropertiesInCSharp\obj\Debug\PropertiesInCSharp.csprojAssemblyReference.cache
+C:\Users\PUNEETH\Desktop\C# visual studio app development tutorials\03 Basics of C Programming\PropertiesInCSharp\PropertiesInCSharp\obj\Debug\PropertiesInCSharp.csproj.CoreCompileInputs.cache
+C:\Users\PUNEETH\Desktop\C# visual studio app development tutorials\03 Basics of C Programming\PropertiesInCSharp\PropertiesInCSharp\bin\Debug\PropertiesInCSharp.exe.config
+C:\Users\PUNEETH\Desktop\C# visual studio app development tutorials\03 Basics of C Programming\PropertiesInCSharp\PropertiesInCSharp\bin\Debug\PropertiesInCSharp.exe
+C:\Users\PUNEETH\Desktop\C# visual studio app development tutorials\03 Basics of C Programming\PropertiesInCSharp\PropertiesInCSharp\bin\Debug\PropertiesInCSharp.pdb
+C:\Users\PUNEETH\Desktop\C# visual studio app development tutorials\03 Basics of C Programming\PropertiesInCSharp\PropertiesInCSharp\obj\Debug\PropertiesInCSharp.exe
+C:\Users\PUNEETH\Desktop\C# visual studio app development tutorials\03 Basics of C Programming\PropertiesInCSharp\PropertiesInCSharp\obj\Debug\PropertiesInCSharp.pdb

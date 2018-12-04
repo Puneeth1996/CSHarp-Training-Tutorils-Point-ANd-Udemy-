@@ -1,0 +1,15 @@
+C# - Constants and Literals
+
+
+The constants refer to fixed values that the program may not alter during its execution. 
+These fixed values are also called LITERALS. 
+CONSTANTS can be of any of the basic data types like an integer constant, a floating constant, a character constant, or a string literal.
+      
+      Character Constants
+      Integer Literals
+      Floating-point Literals
+      Character Constants(Escape sequence)
+      String Literals
+
+
+Defining Constants	Syntax      const <data_type> <constant_name> = value;

@@ -1,0 +1,10 @@
+C:\Users\NEW\Desktop\C# Conditional Operators\IfStatementsInCSharp\IfStatementsInCSharp\bin\Debug\IfStatementsInCSharp.exe.config
+C:\Users\NEW\Desktop\C# Conditional Operators\IfStatementsInCSharp\IfStatementsInCSharp\bin\Debug\IfStatementsInCSharp.exe
+C:\Users\NEW\Desktop\C# Conditional Operators\IfStatementsInCSharp\IfStatementsInCSharp\bin\Debug\IfStatementsInCSharp.pdb
+C:\Users\NEW\Desktop\C# Conditional Operators\IfStatementsInCSharp\IfStatementsInCSharp\obj\Debug\IfStatementsInCSharp.csprojAssemblyReference.cache
+C:\Users\NEW\Desktop\C# Conditional Operators\IfStatementsInCSharp\IfStatementsInCSharp\obj\Debug\IfStatementsInCSharp.Form1.resources
+C:\Users\NEW\Desktop\C# Conditional Operators\IfStatementsInCSharp\IfStatementsInCSharp\obj\Debug\IfStatementsInCSharp.Properties.Resources.resources
+C:\Users\NEW\Desktop\C# Conditional Operators\IfStatementsInCSharp\IfStatementsInCSharp\obj\Debug\IfStatementsInCSharp.csproj.GenerateResource.cache
+C:\Users\NEW\Desktop\C# Conditional Operators\IfStatementsInCSharp\IfStatementsInCSharp\obj\Debug\IfStatementsInCSharp.csproj.CoreCompileInputs.cache
+C:\Users\NEW\Desktop\C# Conditional Operators\IfStatementsInCSharp\IfStatementsInCSharp\obj\Debug\IfStatementsInCSharp.exe
+C:\Users\NEW\Desktop\C# Conditional Operators\IfStatementsInCSharp\IfStatementsInCSharp\obj\Debug\IfStatementsInCSharp.pdb

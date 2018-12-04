@@ -1,0 +1,21 @@
+C# - Variables
+
+
+Variable : Its nothing but a name given to a storage area that our programs can manipulate.
+
+    C# also allows defining other value types of variable such as enum and reference types of variables such as class, which we will cover in subsequent chapters.
+
+
+Lvalue and Rvalue Expressions in C#
+    THERE ARE TWO KINDS OF EXPRESSIONS IN C# ?
+    
+    LVALUE ? AN EXPRESSION THAT IS AN LVALUE MAY APPEAR AS EITHER THE LEFT-HAND OR RIGHT-HAND SIDE OF AN ASSIGNMENT.
+    
+    RVALUE ? AN EXPRESSION THAT IS AN RVALUE MAY APPEAR ON THE RIGHT- BUT NOT LEFT-HAND SIDE OF AN ASSIGNMENT.
+    
+    VARIABLES ARE LVALUES AND HENCE THEY MAY APPEAR ON THE LEFT-HAND SIDE OF AN ASSIGNMENT. NUMERIC LITERALS ARE RVALUES AND HENCE THEY MAY NOT BE ASSIGNED AND CAN NOT APPEAR ON THE LEFT-HAND SIDE. FOLLOWING IS A VALID C# STATEMENT ?
+    
+    INT G = 20;
+    BUT FOLLOWING IS NOT A VALID STATEMENT AND WOULD GENERATE COMPILE-TIME ERROR ?
+    
+    10 = 20;

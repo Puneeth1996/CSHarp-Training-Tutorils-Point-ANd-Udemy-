@@ -1,0 +1,4 @@
+C# - Regular Expressions
+
+
+A regular expression is a pattern that could be matched against an input text. The .Net framework provides a regular expression engine that allows such matching. A pattern consists of one or more character literals, operators, or constructs.
